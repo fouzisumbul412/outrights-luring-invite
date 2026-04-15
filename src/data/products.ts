@@ -5606,6 +5606,177 @@ export const products: Product[] = [
     ]
   },
 
+  {
+  id: "prod-131",
+  title: "Sikh Wedding Invitation Video | Anand Karaj Digital Invite",
+  slug: "sikh-wedding-anand-karaj-digital-invite",
+  category: "digital-invites",
+  collection: "Wedding Invites",
+  collectionSlug: "wedding-invites",
+  priceFrom: 1999,
+  tags: ["Sikh Wedding", "Anand Karaj", "Digital Invite", "Wedding Video", "Punjabi Invite"],
+  deliveryTime: "48h",
+  styles: ["Traditional", "Elegant", "Cinematic", "Emotional", "Romantic"],
+  languages: ["Punjabi", "Hindi", "English"],
+  thumbnail: "/images/products/sikh-anand-karaj-thumbnail.jpg",
+  previewImages: [
+    "/images/products/sikh-anand-karaj-1.jpg",
+    "/images/products/sikh-anand-karaj-2.jpg"
+  ],
+  bestSeller: false,
+  isNew: true,
+  description:
+    "A beautifully crafted Sikh wedding invitation video capturing the sacred Anand Karaj ceremony. Celebrate grace, faith, and love as two souls begin their forever with blessings from the Guru Granth Sahib. Perfect for couples looking for a spiritual and elegant digital invite.",
+  whatIncluded: [
+    "Personalized wedding invitation video",
+    "Custom names, date, and venue details",
+    "Background music with spiritual tone",
+    "HD video output",
+    "1 theme customization"
+  ],
+  revisionPolicy: "Up to 2 free revisions included. Additional revisions will be charged.",
+  deliverables: [
+    "Full HD video file (MP4)",
+    "Mobile-optimized version",
+    "Shareable link"
+  ],
+  video: {
+    url: "https://youtube.com/shorts/h1NbqgVi0aw",
+    platform: "youtube"
+  },
+  religion: ["Sikh"],
+  region: ["North Indian"],
+  subOccasion: ["Wedding", "Anand Karaj Ceremony"]
+},
+{
+   id: "prod-132",
+  title: "1st Birthday Invitation Video | Cute Baby Digital Invite",
+  slug: "1st-birthday-cute-baby-digital-invite",
+  category: "digital-invites",
+  collection: "Birthday",
+  collectionSlug: "birthday",
+  priceFrom: 1499,
+  tags: ["1st Birthday", "Baby Invite", "Birthday Video", "Cute Invite", "Digital Invitation"],
+  deliveryTime: "48h",
+  styles: ["Cute", "Playful", "Fun", "Animated", "Celebration"],
+  languages: ["English", "Hindi"],
+  thumbnail: "/images/products/1st-birthday-thumbnail.jpg",
+  previewImages: [
+    "/images/products/1st-birthday-1.jpg",
+    "/images/products/1st-birthday-2.jpg"
+  ],
+  bestSeller: false,
+  isNew: true,
+  description:
+    "A heartwarming 1st birthday invitation video designed to create lasting family memories. Even if your little one won’t remember the day, this cute and personalized digital invite sets the perfect mood for the celebration and becomes a cherished keepsake forever.",
+  whatIncluded: [
+    "Personalized birthday invitation video",
+    "Baby name, age, date, and venue customization",
+    "Cute animations and music",
+    "HD video output",
+    "1 theme customization"
+  ],
+  revisionPolicy: "Up to 2 free revisions included. Additional revisions will be charged.",
+  deliverables: [
+    "Full HD video file (MP4)",
+    "Mobile-optimized version",
+    "Shareable link"
+  ],
+  video: {
+    url: "https://youtube.com/shorts/JN7pVJ2oPo8",
+    platform: "youtube"
+  },
+  religion: ["Other"],
+  region: ["Other"],
+  subOccasion: ["1st Birthday"]
+},
+{
+  id: "prod-133",
+  title: "Royal Palace Wedding Invitation Video | Cinematic Digital Wedding Invite",
+  slug: "royal-palace-cinematic-wedding-invite",
+  category: "digital-invites",
+  collection: "Wedding Invites",
+  collectionSlug: "wedding-invites",
+  priceFrom: 2499,
+  tags: ["Royal Wedding", "Palace Theme", "Cinematic Invite", "Luxury Wedding", "Digital Invitation"],
+  deliveryTime: "48h",
+  styles: ["Royal", "Luxury", "Cinematic", "Elegant", "Romantic"],
+  languages: ["English", "Hindi"],
+  thumbnail: "/images/products/royal-palace-thumbnail.jpg",
+  previewImages: [
+    "/images/products/royal-palace-1.jpg",
+    "/images/products/royal-palace-2.jpg"
+  ],
+  bestSeller: false,
+  isNew: true,
+  description:
+    "A grand cinematic wedding invitation inspired by royal palaces and timeless love stories. Featuring majestic marble arches, luxurious floral aesthetics, and regal storytelling, this digital invite transforms your wedding announcement into a royal experience for your guests.",
+  whatIncluded: [
+    "Personalized wedding invitation video",
+    "Custom names, wedding date, and venue details",
+    "Royal palace theme with cinematic effects",
+    "Premium background music",
+    "HD video output"
+  ],
+  revisionPolicy: "Up to 2 free revisions included. Additional revisions will be charged.",
+  deliverables: [
+    "Full HD video file (MP4)",
+    "Mobile-optimized version",
+    "Shareable link"
+  ],
+  video: {
+    url: "https://youtube.com/shorts/eoj5Az5KeZU",
+    platform: "youtube"
+  },
+  religion: ["Hindu", "Muslim", "Christian", "Other"],
+  region: ["North Indian", "South Indian", "West Indian", "East Indian", "Other"],
+  subOccasion: ["Wedding"]
+},
+
+{
+  id: "prod-134",
+  title: "Telugu Reception Invitation Video | Cinematic Car Entry Digital Invite",
+  slug: "telugu-reception-cinematic-car-entry-invite",
+  category: "digital-invites",
+  collection: "Wedding Invites",
+  collectionSlug: "wedding-invites",
+  priceFrom: 1999,
+  tags: ["Reception Invite", "Telugu Invite", "Car Entry", "Cinematic Invite", "Wedding Reception"],
+  deliveryTime: "48h",
+  styles: ["Cinematic", "Royal", "Modern", "Storytelling", "Celebration"],
+  languages: ["Telugu", "English"],
+  thumbnail: "/images/products/telugu-reception-thumbnail.jpg",
+  previewImages: [
+    "/images/products/telugu-reception-1.jpg",
+    "/images/products/telugu-reception-2.jpg"
+  ],
+  bestSeller: false,
+  isNew: true,
+  description:
+    "A grand Telugu reception invitation video featuring a cinematic car entry and storytelling experience. Designed to feel like a movie premiere, this digital invite sets the tone for a luxurious and unforgettable reception celebration.",
+  whatIncluded: [
+    "Personalized reception invitation video",
+    "Custom names, date, and venue details",
+    "Cinematic car entry sequence",
+    "Background music with dramatic storytelling",
+    "HD video output"
+  ],
+  revisionPolicy: "Up to 2 free revisions included. Additional revisions will be charged.",
+  deliverables: [
+    "Full HD video file (MP4)",
+    "Mobile-optimized version",
+    "Shareable link"
+  ],
+  video: {
+    url: "https://youtube.com/shorts/88qi9-EKhDI",
+    platform: "youtube"
+  },
+  religion: ["Hindu", "Other"],
+  region: ["South Indian"],
+  subOccasion: ["Reception"]
+},
+
+
 
 ];
 
